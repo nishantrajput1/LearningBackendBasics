@@ -1,2 +1,1 @@
-const catme = require('cat-me');
-console.log(catme());
+console.log(2+3);

@@ -1,5 +1,23 @@
 {
+  "name": "complete-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantrajput1/LearningBackendBasics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishantrajput1/LearningBackendBasics/issues"
+  },
+  "homepage": "https://github.com/nishantrajput1/LearningBackendBasics#readme",
+  "description": "",
   "dependencies": {
-    "cat-me": "^1.0.3"
+    "express": "^5.2.1"
   }
 }
