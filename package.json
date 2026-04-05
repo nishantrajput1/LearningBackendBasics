@@ -1,24 +1,5 @@
 {
-  "name": "complete-backend",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nishantrajput1/LearningBackendBasics.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nishantrajput1/LearningBackendBasics/issues"
-  },
-  "homepage": "https://github.com/nishantrajput1/LearningBackendBasics#readme",
-  "description": "",
   "dependencies": {
-    "express": "^5.2.1",
-    "mongoose": "^9.3.3"
+    "react-router-dom": "^7.14.0"
   }
 }

@@ -1,0 +1,5 @@
+5aYu6BL5Wwbcu2P3
+
+mongodb+srv://bhaluthebeast:vWnYyFR12vF54nnb@learning-backend.xey6nnp.mongodb.net/
+
+mongodb+srv://<learner>:<5aYu6BL5Wwbcu2P3>@learning-backend.xey6nnp.mongodb.net/
